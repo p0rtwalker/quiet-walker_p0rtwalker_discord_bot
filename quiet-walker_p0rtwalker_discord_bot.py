@@ -14,5 +14,5 @@ async def on_ready():
 async def hello_bot(ctx):
     await ctx.send('Hello Mr. Haxor')
 
-bot.run('') # I'm not going to share my token.  
+bot.run('') #token
 
